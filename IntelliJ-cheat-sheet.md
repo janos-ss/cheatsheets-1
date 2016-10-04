@@ -79,6 +79,7 @@ Linux
     ?control q          quick documentation
     control home        jump to top
     control end         jump to bottom
+    alt q               View | Context Into : see declaration of current method (when not visible without scrolling)
 
 
 Mac OS X
