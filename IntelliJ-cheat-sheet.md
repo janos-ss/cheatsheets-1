@@ -80,6 +80,7 @@ Linux
     control home        jump to top
     control end         jump to bottom
     alt q               View | Context Into : see declaration of current method (when not visible without scrolling)
+    control e           View | Recent Files : see recently visited files
 
 
 Mac OS X
