@@ -33,3 +33,10 @@ Keyboard shortcuts
     F12                 focus to editor
     alt /               complete text
     control k           find next match of last search or highlighted text
+    F3                  open implementation / jump to declaration
+    control alt h       open call hierarchy
+    F11                 debug last configuration
+    control F11         run last configuration
+    control shift i     inspect value
+    control t           quick type hierarchy
+    F4                  open type hierarchy view
