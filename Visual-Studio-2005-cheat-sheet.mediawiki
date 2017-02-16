@@ -12,6 +12,7 @@ http://visualstudioshortcuts.com/2015/
  control k t           open call hierarchy
  control alt pgdown    next tab
  control shift b       compile
+ shift F12             find all references
  
  -- debugging
  F5     resume
