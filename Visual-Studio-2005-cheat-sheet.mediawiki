@@ -7,10 +7,16 @@
 
 http://visualstudioshortcuts.com/2015/
 
-control ;             open file
-control m x           expand region
-control k t           open call hierarchy
-control alt pgdown    next tab
+ control ;             open file
+ control m x           expand region
+ control k t           open call hierarchy
+ control alt pgdown    next tab
+ control shift b       compile
+ 
+ -- debugging
+ F5     resume
+ F10    step over
+ F11    step into
 
  F12    go to definition
  
