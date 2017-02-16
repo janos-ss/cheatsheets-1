@@ -5,6 +5,13 @@
 
 == Key bindings ==
 
+http://visualstudioshortcuts.com/2015/
+
+control ;             open file
+control m x           expand region
+control k t           open call hierarchy
+control alt pgdown    next tab
+
  F12    go to definition
  
  C-x    delete current line (puts on clipboard)
