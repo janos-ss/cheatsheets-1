@@ -2,11 +2,13 @@
 
  F11    step into
  S-F11  step out
+ F5     resume
 
 == Key bindings ==
 
 http://visualstudioshortcuts.com/2015/
 
+ control ,             open class (symbol too?)
  control ;             open file
  control m x           expand region
  control k t           open call hierarchy
