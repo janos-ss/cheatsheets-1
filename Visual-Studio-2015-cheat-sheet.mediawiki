@@ -8,13 +8,15 @@
 
 http://visualstudioshortcuts.com/2015/
 
- control ,             open class (symbol too?)
- control ;             open file
- control m x           expand region
- control k t           open call hierarchy
- control alt pgdown    next tab
- control shift b       compile
- shift F12             find all references
+ control ,               open class (symbol too?)
+ control ;               open file
+ control m x             expand region
+ control k t             open call hierarchy
+ control alt pgdown      next tab
+ control shift b         compile
+ shift F12               find all references
+ control r, t            run test method in current enclosing block
+ control r, control t    debug test method in current enclosing block
  
  -- debugging
  F5     resume
