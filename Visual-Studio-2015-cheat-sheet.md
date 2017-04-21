@@ -21,7 +21,7 @@ http://visualstudioshortcuts.com/2015/
     control r t             run test method in current enclosing block
     control r control t     debug test method in current enclosing block
     F12                     follow reference / go to definition 
-    control x               delete current line (puts on clipboard)
+    control x               delete current line (copies to clipboard)
     control F5              run selected start project
     control tab             switch between window tabs
     alt f c                 close window tab
