@@ -33,6 +33,7 @@ http://visualstudioshortcuts.com/2015/
     control k u             uncomment selected text block
     control k k             toggle bookmark
     contorl k n             jump to next bookmark
+    control -               go back
 
 WANTED! key bindings
 --------------------
