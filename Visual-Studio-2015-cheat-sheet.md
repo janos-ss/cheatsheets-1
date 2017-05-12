@@ -30,7 +30,7 @@ http://visualstudioshortcuts.com/2015/
     contorl k s             opens the code snippet window (surround with if, for, do, class, etc)
     control k f             format (indent) selected text
     control k d             format (indent) entire document
-    control k c             comment selected text block with //
+    control k control c     comment selected text block with //
     control k u             uncomment selected text block
     control k k             toggle bookmark
     contorl k n             jump to next bookmark
