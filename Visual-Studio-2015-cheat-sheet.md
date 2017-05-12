@@ -20,6 +20,7 @@ http://visualstudioshortcuts.com/2015/
     shift F12               find all references
     control r t             run test method in current enclosing block
     control r control t     debug test method in current enclosing block
+    control r l             re-run last configuration
     F12                     follow reference / go to definition 
     control x               delete current line (copies to clipboard)
     control F5              run selected start project
@@ -34,6 +35,8 @@ http://visualstudioshortcuts.com/2015/
     control k k             toggle bookmark
     contorl k n             jump to next bookmark
     control -               go back
+    F8                      jump to next error in Error List, requires compilation
+    control shift F12       jump to next error in Error List; no shortcut for previous, bind to PreviousError command
 
 WANTED! key bindings
 --------------------
