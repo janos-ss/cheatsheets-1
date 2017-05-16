@@ -14,6 +14,7 @@ http://visualstudioshortcuts.com/2015/
     control ,               open class (symbol too?)
     control ;               open file
     control m control x     expand region
+    control m control m     expand/collapse region
     control k t             open call hierarchy
     control alt pgdown      next tab
     control shift b         build
